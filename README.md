@@ -20,7 +20,7 @@ Este acervo foi criado para apoiar estudantes e entusiastas da área de Análise
 Aqui está a proposta de organização para que você encontre o que precisa de maneira fácil e rápida:
 
 ```bash
-ADS_An-lise_E_Desenvolvimento_De_Sistemas/
+ADS_Análise_E_Desenvolvimento_De_Sistemas/
 │
 ├── Backup_Matérias/
 │   ├── 1º_Período/
