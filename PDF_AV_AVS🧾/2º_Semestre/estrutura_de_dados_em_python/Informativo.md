@@ -1,0 +1,1 @@
+⚠️ **Atenção:** As Avaliações não têm como objetivo fornecer respostas corretas, sendo destinadas exclusivamente para **fins de estudo**. Embora não apresentem a solução exata, elas oferecem uma excelente orientação para o seu aprendizado e preparação. ⚠️
