@@ -25,6 +25,18 @@
 
 ---
 
+## 🖥️ Sistemas Operacionais
+
+- **[Tema 1: Conceitos Básicos de SO](https://stecine.azureedge.net/repositorio/conceitos_basicos_de_sistemas_operacionais/index.html)**
+- **[Tema 2: Processos e Gerência de Processador](https://stecine.azureedge.net/repositorio/processos_e_gerencia_de_processador/index.html)**
+- **[Tema 3: Memória](https://stecine.azureedge.net/repositorio/memoria/index.html)**
+- **[Tema 4: Sistema de Arquivos](https://stecine.azureedge.net/repositorio/sistema_de_arquivos/index.html)**
+- **[Tema 5: Automatizando Tarefas no Linux](https://stecine.azureedge.net/repositorio/automatizando_tarefas_no_linux/index.html)**
+
+📄 [Plano de Ensino](https://estudante.estacio.br/aura-repo/disciplinas/DGT0283/DGT0283_Plano_de_ensino.pdf)
+
+---
+
 ## 🛠️ Engenharia de Software
 
 - **[Tema 1: Fundamentos de Software e Gerenciamento de Projetos](https://stecine.azureedge.net/repositorio/00212ti/07651/index.html)**
